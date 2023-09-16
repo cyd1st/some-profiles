@@ -11,6 +11,8 @@
 // @homepageURL  https://github.com/evalcony/better-bilibili
 // ==/UserScript==
 
+// 脚本来自 https://github.com/evalcony/better-bilibili，此处仅为自用修改
+
 (() => {
     'use strict';
     new MutationObserver(() => {
